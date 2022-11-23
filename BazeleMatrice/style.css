@@ -1,0 +1,18 @@
+body {
+  background: #bbce98;
+  display: grid;
+  grid-template-columns: repeat(2,1fr);
+}
+.matrix-number{
+  display: inline-block;
+  padding: 25px;
+  border-radius: 50%;
+}
+.matrix-number:hover {
+  background: #000;
+}
+
+
+.matrix-number {
+  width: 25px;
+}
